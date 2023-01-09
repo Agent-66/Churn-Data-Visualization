@@ -77,7 +77,7 @@
 * [churn.csv](./churn.csv) - файл с исходными табличными данными
 * [churn_analysis.ipynb](./churn_analysis.ipynb) - jupyter-ноутбук, содержащий основной код проекта, в котором демонстрируются методы и подходы решения задач визуализации и анализа данных
 
-## Используемые зависимости
+## Зависимости
 
 Python (3.10.6):
 * [pandas (1.5.2)](https://pandas.pydata.org)
@@ -91,7 +91,7 @@ Python (3.10.6):
 git clone https://github.com/Agent-66/Churn-Data-Visualization
 ```
 
-## Использование
+## Использование проекта
 
 Вся информация о работе представлена в Jupyter-ноутбуке churn_analysis.ipynb.
 
